@@ -1,5 +1,7 @@
 # Covalent API - get historical prices by ticker symbol
 
+Related article : https://coolex.medium.com/covalent-api-how-you-can-use-it-a4ba613d5f1e
+
 Example of the use of **Covalent API** - get historical prices by ticker symbol.
 
 Links:
